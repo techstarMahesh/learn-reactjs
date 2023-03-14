@@ -5,7 +5,7 @@ import { MyUseCounterComponent } from './components/counterUsingStates'
 function App() {
   return (
     <div className="App">
-      <h1>Mahesh Sharma</h1>
+      <h1>This is Parent Component</h1>
       <MyUseCounterComponent />
     </div>
   )

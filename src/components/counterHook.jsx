@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'
 
 export function useCounter(initialValue) {
-  const [count, setCount] = useState(initialValue);
+  const [count, setCount] = useState(initialValue)
 
   function handleCount() {
-    setCount(count + 1);
+    setCount(count + 1)
   }
 
-  return { count, handleCount };
+  return { count, handleCount }
 }
