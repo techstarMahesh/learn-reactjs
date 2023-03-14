@@ -27,10 +27,21 @@
 * [ ] Chart.js
 * [ ] cchart in reace chart
 * [ ] React Table.
+* [ ] Use State(Pass a object).
+  * [ ] Call.
+  * [ ] Bind.
+  * [ ] Apply.
+* [ ] Portal.
+* [ ] Routing in react.
+  * [ ] Authorization based routing.
+* [ ] Use Param.
+* [ ] Use History.
+* [ ] Exact.
+* [ ] Remote acccess Terminal - React.
 
 ---
 
-## JavaScript Concept: 
+## JavaScript Concept:
 
 * [ ] Deep Copy.
 * [ ] Shallow Copy.
@@ -41,7 +52,6 @@
 * [ ] Reduse.
 * [ ] Template litters.
 * [ ] Make a chart using HTML, CSS, Bootstap and javascript.
-* [ ] 
 
 ---
 
