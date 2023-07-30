@@ -6,11 +6,11 @@ export function MyUseCounterComponent() {
   console.log(useCounter(1));
   return (
     <>
-      <h1>
+      <h4>
         This is simple counter
-      </h1>
-      <h2><span>{count}</span></h2>
-      <button onClick={handleCount}>Increment</button>
+      </h4>
+      <h6><span>{count}</span></h6>
+      <button className='btn' onClick={handleCount}>Increment</button>
     </>
   );
 }

@@ -1,11 +1,11 @@
 ## Basics To Learn
 
-* [ ] Use Effect.
-* [ ] Use State.
-* [ ] Use Hook.
+* [X] Use Effect.
+* [X] Use State.
+* [X] Use Hook.
 * [ ] Use Context.
 * [ ] ContextAPI.
-* [ ] Custome Hook.
+* [X] Custome Hook.
 * [ ] ES6 Methord.
 * [ ] Bind.
 * [ ] Call.
