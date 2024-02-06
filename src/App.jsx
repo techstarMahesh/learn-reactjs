@@ -1,8 +1,9 @@
+import Hello from './components/basics/helloWorld'
 import './index.css'
 function App() {
   return (
     <>
-      <h1>Hello World</h1>
+      <Hello />
     </>
   )
 }
