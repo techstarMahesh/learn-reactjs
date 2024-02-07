@@ -8,6 +8,7 @@ import { UseStates } from './06-useStates'
 import { UseEffectExp } from './07-useEffects'
 import { UseMemos } from './08-useMomo'
 import { UseCalbacks } from './09-useColbacks'
+import { CustomHookExmp } from './11-customHookExmp'
 
 export const BasicApp = () => {
   const name = 'Mahesh Sharma'
@@ -23,6 +24,7 @@ export const BasicApp = () => {
       {/* <UseEffectExp /> */}
       {/* <UseMemos /> */}
       {/* <UseCalbacks /> */}
+      <CustomHookExmp />
     </>
   )
 }
