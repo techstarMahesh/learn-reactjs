@@ -4,8 +4,8 @@ import { HooksExmp } from './02-Hooks/HooksExmp'
 export const AllComponents = () => {
   return (
     <>
-      {/* <BasicApp /> */}
-      {/* <HooksExmp /> */}
+      <BasicApp />
+      <HooksExmp />
     </>
   )
 }

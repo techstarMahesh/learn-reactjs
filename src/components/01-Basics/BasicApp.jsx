@@ -4,6 +4,7 @@ import JsxExample from './02-jsx'
 import Events from './03-events'
 import ParrentData from './05-parentData'
 import ChildData from './04-childData'
+import { Condications } from './06-Condicanal'
 
 export const BasicApp = () => {
   const name = 'Mahesh Sharma'
@@ -15,6 +16,7 @@ export const BasicApp = () => {
       {/* <Events /> */}
       {/* <ChildData /> */}
       {/* <ParrentData /> */}
+      <Condications />
     </>
   )
 }
