@@ -1,10 +1,10 @@
-import { BasicApp } from './components/basics/00-BasicApp'
+import { AllComponents } from './components/AllComponents'
 import './index.css'
 
 function App() {
   return (
     <>
-      <BasicApp />
+      <AllComponents />
     </>
   )
 }

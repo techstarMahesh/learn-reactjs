@@ -1,5 +1,5 @@
 import { useCallback, useState } from 'react'
-import { UseCallBackChild } from './10-useCalbackChild'
+import { UseCallBackChild } from './05-01-useCalbackChild'
 
 export const UseCalbacks = () => {
   const [num, setNum] = useState(0)

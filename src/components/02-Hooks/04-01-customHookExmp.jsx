@@ -1,4 +1,4 @@
-import { useCustomCountHook } from '../hooks/customCountHook'
+import { useCustomCountHook } from './04-02-customCountHook'
 
 export const CustomHookExmp = () => {
   const { count, handleCount } = useCustomCountHook()
