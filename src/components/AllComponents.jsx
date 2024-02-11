@@ -8,7 +8,7 @@ export const AllComponents = () => {
     <>
       {/* <BasicApp /> */}
       {/* <HooksExmp /> */}
-      {/* <CssStype /> */}
+      <CssStype />
       {/* <ContextAPI /> */}
     </>
   )

@@ -2,6 +2,7 @@ import { ExteranalCSSExmp } from './01-ExternalCSS'
 import { InlineCSSExmp } from './02-InlineCSS'
 import { ExtImage } from './03-ImageCSS'
 import './style.css'
+import { TelwinCSS } from './telwinCss'
 export const CssStype = () => {
   return (
     <>
@@ -9,6 +10,7 @@ export const CssStype = () => {
       {/* <ExteranalCSSExmp /> */}
       {/* <InlineCSSExmp /> */}
       <ExtImage />
+      <TelwinCSS />
     </>
   )
 }
