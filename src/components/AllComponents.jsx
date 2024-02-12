@@ -3,6 +3,7 @@ import { HooksExmp } from './02-Hooks/HooksExmp'
 import { CssStype } from './03-CSS/CSS'
 import { ContextAPI } from './04-ContextAPI/context'
 import { ReduxApp } from './05-Redux/ReduxApp'
+import { Forms } from './06-Form/forms'
 
 export const AllComponents = () => {
   return (
@@ -11,7 +12,8 @@ export const AllComponents = () => {
       {/* <HooksExmp /> */}
       {/* <CssStype /> */}
       {/* <ContextAPI /> */}
-      <ReduxApp />
+      {/* <ReduxApp /> */}
+      <Forms />
     </>
   )
 }
