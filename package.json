@@ -43,6 +43,7 @@
   },
   "devDependencies": {
     "react-router-dom": "^6.9.0",
+    "serve": "^14.2.1",
     "tailwindcss": "^3.4.1"
   }
 }
