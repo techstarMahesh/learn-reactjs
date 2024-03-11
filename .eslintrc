@@ -1,5 +1,9 @@
 {
+    "plugins": [
+        "react"
+    ],
     "rules": {
-        "no-unused-vars": "warn"
+        "react/jsx-uses-vars": "error",
+        "react/jsx-uses-react": "error"
     }
 }
